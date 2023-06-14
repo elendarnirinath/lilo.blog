@@ -4,7 +4,7 @@ date = "2023-06-12"
 draft = false
 pinned = false
 image = "raum.jpg"
-footnotes = "wosfiuqPDUwdjÄQOFOEFH"
+footnotes = ""
 +++
 Wie Ergotherapie psychische Leiden lindert und Lebensqualität verbessert.
 
