@@ -1,6 +1,6 @@
 +++
 title = "Wenn Alltagsaktivitäten zur Therapie werden "
-date = "2023-06-12"
+date = "2023-06-14"
 draft = false
 pinned = false
 image = "raum.jpg"
