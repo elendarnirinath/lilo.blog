@@ -3,7 +3,7 @@ title = "Unterstützung und Begleitung für ein selbstständiges Leben"
 date = "2023-06-16"
 draft = false
 pinned = true
-image = ""
+image = "bild1.jpg"
 description = ""
 +++
 {{<lead>}}
