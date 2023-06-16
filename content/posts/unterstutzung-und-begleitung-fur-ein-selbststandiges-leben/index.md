@@ -12,12 +12,12 @@ Der Ursprung des Berufs Ergotherapie liegt in den USA und hat sich zu Beginn des
 
 Doch erst zu einem späteren Zeitpunkt wurde begonnen, die Therapie systematisch einzusetzen, um Menschen mit psychischen Störungen zu behandeln und so entstand die Ergotherapie. Heute kann in der Schweiz das Studium zum Ergotherapeuten beziehungsweise zur Ergotherapeutin an Fachhochschulen absolviert werden und das abgeschlossenen Bachelorstudium ermöglicht die Berufsausübung.  
 
-`(H2)`Wann ist eine Ergotherapie nötig? 
+`(H2)`Wann ist eine Ergotherapie nötig?`(H2)`
 Es gibt viele Gründe, weshalb Menschen in die Ergotherapie gehen. Dazu gehören einerseits die zuvor genannten Entwicklungsstörungen oder Verhaltensauffälligkeiten, aber zum Beispiel auch eine Erkrankung des Gehirns , sowie Demenz oder Parkinson, Lähmungen, Amputationen und Prothesen, oder auch psychische Erkrankungen. Das Alter spielt dabei keine Rolle, die Ergotherapie unterstützt Menschen in jedem Alter und will helfen, möglichst viel Selbstständigkeit im Alltag zu erlangen. Dies wird erreicht, indem man das Therapieprogramm spezifisch auf die Patient*innen und deren Bedürfnisse anpasst. Wie eine Therapiestunde aussieht, ist also sehr individuell. Beispielsweise könnte das Training von Alltagsfertigkeiten, wie anziehen oder Essen zubereiten, Bewegungs- und Wahrnehmungsübungen, Konzentrations- und Gedächtnistrainings oder die Hilfe bei der Tagesstrukturierung anstehen. Wichtig zu wissen hierbei ist, dass Menschen mit solchen Problemen, sich nicht einfach so zu einer Ergotherapie anmelden können, denn es wird eine ärztliche Verordnung benötigt. Diese kann einerseits von Hausärzt*innen oder Fachärzt*innen verschrieben werden, andererseits aber auch von Psycholog*innen - Dies aber nur bei psychischen Erkrankungen, Entwicklungsstörungen oder bestimmten Erkrankungen des zentralen Nervensystems.  
 
 Ergotherapie wird nicht nur in den dazugehörenden Praxen ausgeübt, sondern auch in Krankenhäusern, Rehabilitationskliniken und weiteren Einrichtungen. Es gibt auch ergotherapeutische Praxen, die Hausbesuche anbieten. 
 
-`(H3)`Wer übernimmt die Kosten solch einer Therapie
+`(H3)`Wer übernimmt die Kosten solch einer Therapie`(H3)`
 Die Kosten werden dabei grundsätzlich von der Krankenkasse, Unfallversicherung oder IV übernommen, jedoch kann das bei den unterschiedlichen Einrichtung etwas abweichen. Bei der besuchten Praxis beträgt der Selbstbehalt der Eltern 10%. 
 
 `<hr>`
