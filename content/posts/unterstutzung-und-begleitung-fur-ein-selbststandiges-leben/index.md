@@ -60,13 +60,13 @@ Zu Berichten von Frau Dr. Steinegger Di Lione zufolge, begleitete Sie zwei Elfj�
 
 Dies ist oft ein Problem bei Menschen mit ASS oder ADHS, für welches es aber einige Lösungsansätze gibt, welche die Ergotherapie vermitteln kann.  
 
-{{</box>}}
-
 ### Wie handhabt Frau Dr. Steinegger Di Lione den Begriff "psychische Erkrankung"
 
 Auf die Frage, ob In der Ergotherapie Praxis auch Kinder mit Psychischen Erkrankungen begleitet werden, antwortet Frau Steinegger Di Lione wie folgt. 
 
-S; «ADHS ist eine psychiatrische Diagnose, obschon ich es nicht als Psychische Krankheit definiere sonders als eine anders Funktion des Gehirns. Genau gleich wie Leute aus dem Spektrum (Autismus-Spektrum). Leute die das nicht sind, sind Neurotypisch.»  {{</box>}}
+S; «ADHS ist eine psychiatrische Diagnose, obschon ich es nicht als Psychische Krankheit definiere sonders als eine anders Funktion des Gehirns. Genau gleich wie Leute aus dem Spektrum (Autismus-Spektrum). Leute die das nicht sind, sind Neurotypisch.»
+
+{{</box>}}
 
 - - -
 
