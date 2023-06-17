@@ -60,7 +60,7 @@ Zu Berichten von Frau Dr. Steinegger Di Lione zufolge, begleitete Sie zwei Elfj�
 
 Dies ist oft ein Problem bei Menschen mit ASS oder ADHS, für welches es aber einige Lösungsansätze gibt, welche die Ergotherapie vermitteln kann.  
 
-{{<box>}}
+{{</box>}}
 
 ### Wie handhabt Frau Dr. Steinegger Di Lione den Begriff "psychische Erkrankung"
 
@@ -80,11 +80,11 @@ Frau Dr. Steinegger Di Lione erklärt, dass die Wahrnehmung von sich selbst wie 
 
 Bei der Sensorischen Integrationstherapie werden gezielt Reize gesetzt und diese den Klient*innen nahegebracht. Instrumente wie Gymnastikbälle, Schaukeln und ein Becken voller Kirschkerne werden von den Kindern entdeckt und gebraucht. Den Kindern wird ein Parkour mit verschieden Hindernissen und Aufgaben aufgebaut und diesen können sie absolvieren, um körperliches und geistiges Training zu machen.
 
-{{<Box}} 
+{{<box}} 
 
 ![Kirschkernbecken für – unter anderem – Senorische Integrationstherapie   [Bildquelle: Eigenaufnahme]](hand.jpg)
 
-{{</Box>}}
+{{</box>}}
 
 - - -
 
@@ -106,11 +106,11 @@ Ein wesentlicher Fortschritt in der Ergotherapie ist die verstärkte Anpassung d
 
 Die Ergotherapie steht auch in Zukunft vor weiteren Veränderungen und Herausforderungen. Die Integration neuer Technologien wird eine große Rolle spielen, um die Behandlungen noch besser auf die spezifischen Bedürfnisse der Patienten abzustimmen. Innovative Geräte, Virtual-Reality-Anwendungen und computergestützte Programme können beispielsweise eingesetzt werden, um bestimmte Bewegungsabläufe zu trainieren, die kognitive Funktion zu verbessern oder die sensorische Integration zu fördern. Diese technologischen Fortschritte eröffnen neue Möglichkeiten und erweitern das Spektrum der Ergotherapie. 
 
-{{<Box>}}
+{{<box>}}
 
 Ein weiterer wichtiger Aspekt ist die kontinuierliche Weiterbildung von Ergotherapeuten. Die Fachkenntnisse und Fertigkeiten müssen kontinuierlich auf dem neuesten Stand gehalten werden, um den steigenden Anforderungen gerecht zu werden. Weiterbildungen bieten Ergotherapeuten die Möglichkeit, sich in spezifischen Bereichen weiterzuentwickeln und ihr Fachwissen zu vertiefen. Dies trägt dazu bei, dass Ergotherapeuten mit den neuesten Erkenntnissen und Behandlungsmethoden vertraut sind und ihren Patienten bestmögliche Unterstützung bieten können. 
 
-{{</Box>}}
+{{</box>}}
 
 ![Diverses Material für Ergotherapie [Bildquelle: Eigenaufnahme]](material.jpg)
 
